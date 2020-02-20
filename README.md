@@ -7,7 +7,7 @@ Feel free to use the codes, however, keep their credits. If you encounter any pr
 
 Below, a description of what exists in this repository with a simple comment.
 
-### 1. stvarvc
+### 1. stvarvc-extract
 
 A class for extracting parameters from the STVARVC transaction. 
 
