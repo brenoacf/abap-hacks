@@ -1,6 +1,6 @@
 # Usage
 
-Import zcl_stvarv_extract.abap class to your system through SE24 or using SAPLINK with the nugg file. Another way is to create a local class and import through SE24.
+Import zcl_stvarv_extract.abap class to your system through SE24 or using SAPLINK with the nugg file. Another way is to create a local class and import through SE24. More information about import, click [here](https://brenoacf.github.io/sap/abap/2020/03/02/1-Abap-Hacks-STVARV.html) (in portuguese only).
 
 After that you can use the options as shown below.
 
