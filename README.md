@@ -13,6 +13,8 @@ A class for extracting parameters from the STVARVC transaction.
 
 > All methods available in this class have ABAP documentation.
 
+### 2. class-get-set-generator
 
+A report that provide code for get and set methods inside a ABAP global classes.
 
 
